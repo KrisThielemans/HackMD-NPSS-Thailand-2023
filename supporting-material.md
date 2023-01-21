@@ -13,15 +13,18 @@ Below is a set of links which we hope will be useful for course participants. Pl
 We will use the Synergistic Image Reconstruction Framework (SIRF). This open source software uses Python (and C++) for image reconstruction in PET, MR and SPECT. It is designed to be simple for education, while being powerful enough for real-world application.
 SIRF relies on various other open source packages for much of its functionality.
 
-In particular, we will use the PET part of the SIRF Exercises during this workshop. SIRF and the exercises will be **pre-installed** for participants and accessible via the cloud. However, it is also possible to install SIRF on your laptop or workstation.
+In particular, we will use the PET part of the SIRF Exercises during this workshop. SIRF and the exercises will be **pre-installed** for participants and accessible via the cloud.
 
-** Please check the [SIRF-Exercises starting guide for participants](https://github.com/SyneRBI/SIRF-Exercises/blob/master/DocForParticipants.md) before the course **.
+**Please check the following before the course**
+- [SIRF-Exercises starting guide for participants](https://github.com/SyneRBI/SIRF-Exercises/blob/master/DocForParticipants.md)
+- The [Technical support page](https://hackmd.io/G5ewa8WuTCGuNIexCydxqw?view).
+
 Feel free to ignore information on MR, SPECT and CT in these exercises.
 
 The following links could be useful as well:
 - The SIRF paper:
 Ovtchinnikov, Evgueni, Richard Brown, Christoph Kolbitsch, Edoardo Pasca, Casper da Costa-Luis, Ashley G. Gillman, Benjamin A. Thomas, et al. ‘SIRF: Synergistic Image Reconstruction Framework’. Computer Physics Communications 249 (1 April 2020): 107087. https://doi.org/10.1016/j.cpc.2019.107087. Link for the [accepted version](https://discovery.ucl.ac.uk/id/eprint/10087933/)
-- The [SIRF Wiki](https://github.com/SyneRBI/SIRF/wiki) gives links to more documentation and installation instructions for those who want to have their own copy of SIRF and the exercises (not needed for this course).
+- The [SIRF Wiki](https://github.com/SyneRBI/SIRF/wiki) gives links to more documentation and installation instructions for those who want to have their own copy of SIRF and the exercises (**not** needed for this course).
 
 
 
@@ -44,4 +47,4 @@ Andrew Reader
 
 
 # Back to main
-[Main page](https://hackmd.io/https://hackmd.io/_BDuHkbrSVmyZBDze9MUEg?view)
+[Main page](https://hackmd.io/_BDuHkbrSVmyZBDze9MUEg?view)
